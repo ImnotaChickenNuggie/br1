@@ -9,13 +9,7 @@ const IndexPage = ({ children }) => {
 		<Layout>
 			<section className='h-full bg-cultured'>
 				<div className='mx-auto flex'>
-					<div className='mx-auto mt-12'>
-						<button className='bg-smoky p-3 btn-hexagon'>
-							<div className='bg-cultured btn-hexagon-border'>
-								<p className='pt-2'>Enviar</p>
-							</div>
-						</button>
-					</div>
+					<div className='mx-auto mt-12'></div>
 				</div>
 			</section>
 			<section className='h-full bg-emerald-400'></section>
